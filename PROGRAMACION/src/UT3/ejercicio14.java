@@ -25,7 +25,7 @@ public class ejercicio14 {
 
   
 
-        System.out.println("¿Cuanto le cuesta el viaje?");  
+        System.out.println("¿Nueva version viaje?");  
 
   
 
