@@ -19,7 +19,8 @@ public class trabajo_18_hoja2 {
 		int n2;
 		do {
 			
-		}
+		
 		
 	}
+}
 }
