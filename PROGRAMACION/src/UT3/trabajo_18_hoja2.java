@@ -17,6 +17,9 @@ public class trabajo_18_hoja2 {
 		Scanner sc= new Scanner(System.in);
 		int n1;
 		int n2;
+		do {
+			
+		}
 		
 	}
 }
