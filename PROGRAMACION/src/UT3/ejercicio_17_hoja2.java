@@ -15,7 +15,7 @@ public class ejercicio_17_hoja2 {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-int aux;
+		int aux;
 		
 		// TODO Auto-generated method stub
 		Scanner entrada= new Scanner(System.in);
