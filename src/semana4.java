@@ -1,19 +1,21 @@
+import java.util.Scanner;
+
 /**
  * 
  */
-import java.util.Scanner;
 
 /**
  * @author konrad
  *
  */
-public class TRABAJO_SEMANAL_4_ {
+public class semana4 {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
 		int peso_ele = 0;
 		int aguante_tela;
 		
@@ -25,8 +27,6 @@ public class TRABAJO_SEMANAL_4_ {
 			System.out.println("¿Cuanto pesa el elefante?");
 			peso_ele=sc.nextInt();
 		}
-		
-
 	}
 
 }
