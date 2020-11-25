@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * @author konrad
+ *
+ */
+package NEWPACKAGE;

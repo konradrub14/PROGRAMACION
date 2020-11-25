@@ -38,7 +38,7 @@ public class trabajosemanalcuatro {
 				System.out.println("¡¡LA TELARAÑA AGUANTA!!");
 			
 			}else{
-				System.out.println("¡¡LA TELARAÑA SE A ROTO");
+				System.out.println("LA TELARAÑA SE  ROTO");
 			}
 			System.out.println("Si desea volver al cominezo pulse (1),si quiere salir pulse (0)");
 			salir=sc.nextInt();
