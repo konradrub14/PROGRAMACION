@@ -115,10 +115,9 @@ public class Persona {
 	}
 	
 	//TODO cambiar para que no pinte en consola desde la clase Persona
-	public void saludar() {
-		System.out.printf("Hola soy %s %s y naci el %d/%d/%d. \n", nombre, apellidos, diaNacimiento, mesNacimiento, anioNacimiento);
+	public String saludar() {
+		return "Hola soy"+getNombre() + " " + getApellidos() +" y naci el" + getDiaNacimiento() + "/" + getMesNacimiento() + "/" + getAnioNacimiento() +"\n" ;
 	}
-	
 	private String toUpperPrimeraLetra(String palabra) {
 		String npropio = palabra.toLowerCase();
 		String letra=palabra.substring(0,1).toUpperCase();
