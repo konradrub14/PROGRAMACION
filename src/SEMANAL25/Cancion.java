@@ -1,14 +1,15 @@
 package SEMANAL25;
 
 public class Cancion {
+	//Atributos privados
 	private String Titulo;
 	private String Artista;
 	private String Duracion;
-//CONSTRUCTOR CANCION VACIO
+//CONSTRUCTOR  VACIO
 public Cancion () {
 	
 }
-//RELLENAMOS EL CONSTRUCTOR DE CANCION
+//RELLENAMOS EL CONSTRUCTOR DE CANCION CON PARAMETROS
 public Cancion (String Titulo,String Artista,String Duracion) {
 	this.Titulo=Titulo;
 	this.Artista=Artista;
@@ -48,4 +49,5 @@ public String GetDuracion() {
 public void SetDuracion(String Duracion) {
 	Duracion=Duracion;
 }
+
 }
